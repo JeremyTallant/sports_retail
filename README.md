@@ -7,7 +7,7 @@ In this notebook, we will use our SQL skills to analyze product data for an onli
 We will work with numeric, string, and timestamp data on pricing and revenue, ratings, reviews, descriptions, and website traffic.
 
 We will use techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to produce recommendations on how the company can maximize revenue!
-Contents
+## Contents
 1. Counting missing values
 2. Nike vs Adidas pricing
 3. Labeling price ranges
