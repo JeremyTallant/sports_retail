@@ -8,12 +8,12 @@ We will work with numeric, string, and timestamp data on pricing and revenue, ra
 
 We will use techniques such as aggregation, cleaning, labeling, Common Table Expressions, and correlation to produce recommendations on how the company can maximize revenue!
 ## Contents
-1. Counting missing values
-2. Nike vs Adidas pricing
-3. Labeling price ranges
-4. Average discount by brand
-5. Correlation between revenue and reviews
-6. Ratings and reviews by product description length
-7. Reviews by month and brand
-8. Footwear product performance
-9. Clothing product performance
+1. **Counting missing values:** Count the total number of products, along with the number of non-missing values in `description`, `listing_price`, and `last_visited`.
+2. **Nike vs Adidas pricing:**
+3. **Labeling price ranges:**
+4. **Average discount by brand:**
+5. **Correlation between revenue and reviews:**
+6. **Ratings and reviews by product description length:**
+7. **Reviews by month and brand:**
+8. **Footwear product performance:**
+9. **Clothing product performance:**
