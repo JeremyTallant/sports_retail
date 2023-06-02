@@ -10,7 +10,7 @@ We will use techniques such as aggregation, cleaning, labeling, Common Table Exp
 ## Contents
 1. **Counting missing values:** Count the total number of products, along with the number of non-missing values in `description`, `listing_price`, and `last_visited`.
 2. **Nike vs Adidas pricing:** Find out how listing_price varies between Adidas and Nike products.
-3. **Labeling price ranges:**
+3. **Labeling price ranges:** Create labels for products grouped by price range and brand.
 4. **Average discount by brand:**
 5. **Correlation between revenue and reviews:**
 6. **Ratings and reviews by product description length:**
