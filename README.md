@@ -16,4 +16,4 @@ We will use techniques such as aggregation, cleaning, labeling, Common Table Exp
 6. **Ratings and reviews by product description length:** Split `description` into bins in increments of one hundred characters, and calculate average `rating` by for each bin.
 7. **Reviews by month and brand:** Count the number of `reviews` per `brand` per month.
 8. **Footwear product performance:** Create the `footwear` CTE, then calculate the number of products and average revenue from these items.
-9. **Clothing product performance:**
+9. **Clothing product performance:** Copy the code used to create `footwear` then use a filter to return only products that are not in the CTE.
