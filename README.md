@@ -12,7 +12,7 @@ We will use techniques such as aggregation, cleaning, labeling, Common Table Exp
 2. **Nike vs Adidas pricing:** Find out how listing_price varies between Adidas and Nike products.
 3. **Labeling price ranges:** Create labels for products grouped by price range and `brand`.
 4. **Average discount by brand:** Calculate the average `discount` offered by brand.
-5. **Correlation between revenue and reviews:**
+5. **Correlation between revenue and reviews:** Calculate the correlation between reviews and revenue.
 6. **Ratings and reviews by product description length:**
 7. **Reviews by month and brand:**
 8. **Footwear product performance:**
