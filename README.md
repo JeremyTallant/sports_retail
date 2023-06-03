@@ -15,5 +15,5 @@ We will use techniques such as aggregation, cleaning, labeling, Common Table Exp
 5. **Correlation between revenue and reviews:** Calculate the correlation between reviews and revenue.
 6. **Ratings and reviews by product description length:** Split `description` into bins in increments of one hundred characters, and calculate average `rating` by for each bin.
 7. **Reviews by month and brand:** Count the number of `reviews` per `brand` per month.
-8. **Footwear product performance:**
+8. **Footwear product performance:** Create the `footwear` CTE, then calculate the number of products and average revenue from these items.
 9. **Clothing product performance:**
